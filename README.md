@@ -42,5 +42,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Window](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-![Dyuwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyuwan&theme=default&show_icons=true&count_private=true&include_all_commits=true)
