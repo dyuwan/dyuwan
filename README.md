@@ -14,7 +14,7 @@
 ## 
 
 <details>
-<summary>Machine Learning Enthusiast with past experience of working with Citi Bank and various AI start ups in India 👨‍🔬
+<summary>Final Year Undergrad 👨‍🔬
 <ul>
   <li>Bachelor of Technology in Information Technology, VJTI (2018 - present)</li>
 </ul>
