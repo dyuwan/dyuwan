@@ -5,7 +5,7 @@
 <!-- https://shields.io/ -->
 
 
-# Hi Developer, I'm <a href="https://www.linkedin.com/in/dyuwan-shukla//">Dyuwan Shukla</a> 👋🏼
+# Hi, I'm <a href="https://www.linkedin.com/in/dyuwan-shukla//">Dyuwan Shukla</a> 👋🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-dyuwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyuwan-shukla/)](https://www.linkedin.com/in/dyuwan-shukla/ "Connect on LinkedIn")
 [![GitHub Badge](https://img.shields.io/badge/-dyuwan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dyuwan)](https://github.com/dyuwan/ "Follow on GitHub")
