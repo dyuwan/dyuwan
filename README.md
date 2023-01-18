@@ -14,9 +14,9 @@
 ## 
 
 <details>
-<summary>Final Year Undergrad 👨‍🔬
+<summary>Business Management Student at XLRI Jamshedpur 👨‍🔬
 <ul>
-  <li>Bachelor of Technology in Information Technology, VJTI (2018 - present)</li>
+  <li>Bachelor of Technology in Information Technology, VJTI (2018 - 2022)</li>
 </ul>
 </summary>
 </details>
