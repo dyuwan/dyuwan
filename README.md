@@ -14,8 +14,9 @@
 ## 
 
 <details>
-<summary>Business Management Student at XLRI Jamshedpur 👨‍🔬
+<summary>Business Management Student at XLRI Jamshedpur
 <ul>
+  <li>Business Management Student at XLRI Jamshedpur</li>li>
   <li>Bachelor of Technology in Information Technology, VJTI (2018 - 2022)</li>
 </ul>
 </summary>
