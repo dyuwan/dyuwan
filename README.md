@@ -15,8 +15,8 @@
 
 <details>
 <summary>
-<ul>
-  <li>Business Management Student at XLRI Jamshedpur</li>
+<ul> Background
+  <li>MBA from XLRI Jamshedpur (2022-2024)</li>
   <li>Bachelor of Technology in Information Technology, VJTI (2018 - 2022)</li>
 </ul>
 </summary>
