@@ -5,7 +5,7 @@
 <!-- https://shields.io/ -->
 
 
-# Hi, I'm <a href="https://www.linkedin.com/in/dyuwan-shukla//">Dyuwan Shukla</a> 👋🏼
+# Hi, I'm <a href="https://www.linkedin.com/in/dyuwan-shukla//">Dyuwan Shukla</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-dyuwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyuwan-shukla/)](https://www.linkedin.com/in/dyuwan-shukla/ "Connect on LinkedIn")
 [![GitHub Badge](https://img.shields.io/badge/-dyuwan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dyuwan)](https://github.com/dyuwan/ "Follow on GitHub")
@@ -22,8 +22,4 @@
 </summary>
 </details>
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Window](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
